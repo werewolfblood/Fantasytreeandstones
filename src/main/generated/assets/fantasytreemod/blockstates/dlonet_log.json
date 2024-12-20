@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fantasytreemod:block/dlonet_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fantasytreemod:block/dlonet_log"
+    },
+    "axis=z": {
+      "model": "fantasytreemod:block/dlonet_log_horizontal",
+      "x": 90
+    }
+  }
+}

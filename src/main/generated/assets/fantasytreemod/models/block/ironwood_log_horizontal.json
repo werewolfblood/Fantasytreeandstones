@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "fantasytreemod:block/ironwood_log_top",
+    "side": "fantasytreemod:block/ironwood_log"
+  }
+}

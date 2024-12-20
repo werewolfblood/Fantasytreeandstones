@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fantasytreemod:block/kress_log_top",
+    "side": "fantasytreemod:block/kress_log"
+  }
+}

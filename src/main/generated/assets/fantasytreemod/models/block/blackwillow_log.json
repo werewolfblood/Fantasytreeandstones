@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fantasytreemod:block/blackwillow_log_top",
+    "side": "fantasytreemod:block/blackwillow_log"
+  }
+}

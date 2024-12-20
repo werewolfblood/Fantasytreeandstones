@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fantasytreemod:block/gold_elf_log_top",
+    "side": "fantasytreemod:block/gold_elf_log"
+  }
+}
