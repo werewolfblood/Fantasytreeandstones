@@ -69,6 +69,7 @@ public class InitItemGroups {
                        entries.add(InitBlocks.PINE_LOG);
                        entries.add(InitBlocks.ANGBAND_LOG);
                        entries.add(InitBlocks.FRER_LOG);
+                       entries.add(InitBlocks.ELF_MOSS);
 
 
                     }).build());

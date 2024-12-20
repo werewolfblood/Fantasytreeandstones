@@ -167,7 +167,8 @@ public class InitBlocks {
             new FenceBlock(AbstractBlock.Settings.create().strength(1.9F, 9.0F).requiresTool()));
     public static final Block ORC_MOSS = registerBlock("orc_moss",
             new MossBlock(AbstractBlock.Settings.create().strength(1.9F, 9.0F).requiresTool()));
-
+    public static final Block ELF_MOSS = registerBlock("elf_moss",
+            new MossBlock(AbstractBlock.Settings.create().strength(1.9F, 9.0F).requiresTool()));
 
     public static final Block MITHRIL_LEAVES = registerBlock("mithril_leaves",
             new LeavesBlock(AbstractBlock.Settings.create()
@@ -426,6 +427,7 @@ public class InitBlocks {
             entries.add(InitBlocks.ORC_STONE_SLAB);
             entries.add(InitBlocks.ORC_STONE_FENCE);
             entries.add(InitBlocks.ORC_MOSS);
+            entries.add(InitBlocks.ELF_MOSS);
 
         });
     }

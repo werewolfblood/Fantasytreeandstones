@@ -147,6 +147,7 @@ public class FantasyModelProvider  extends FabricModelProvider {
         blockStateModelGenerator.registerLog(InitBlocks.ELDER_LOG)
                 .log(InitBlocks.ELDER_LOG);
         blockStateModelGenerator.registerSimpleState(InitBlocks.ORC_MOSS);
+        blockStateModelGenerator.registerSimpleState(InitBlocks.ELF_MOSS);
 
 
 

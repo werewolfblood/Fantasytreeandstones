@@ -192,6 +192,7 @@ public class FantasyBlockTagProvider extends FabricTagProvider.BlockTagProvider 
 
 
         getOrCreateTagBuilder(BlockTags.MOSS_REPLACEABLE)
+                .add(InitBlocks.ELF_MOSS)
                 .add(InitBlocks.ORC_MOSS);
 
 

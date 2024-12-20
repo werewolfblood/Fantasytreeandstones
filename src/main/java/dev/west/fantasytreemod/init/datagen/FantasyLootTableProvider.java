@@ -109,6 +109,7 @@ public class FantasyLootTableProvider  extends FabricBlockLootTableProvider {
         addDrop(InitBlocks.ORC_STONE_SLAB);
         addDrop(InitBlocks.ORC_STONE_FENCE);
         addDrop(InitBlocks.ORC_MOSS);
+        addDrop(InitBlocks.ELF_MOSS);
 
 
 
